@@ -1,0 +1,9 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+.about-page h3 {
+    font-size: 20px;
+    font-weight: 700;
+    margin-top: 20px;
+}
